@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MedalInvestment/static/css/main.6f37d1d9.css",
-    "main.js": "/MedalInvestment/static/js/main.413bf4f0.js",
+    "main.js": "/MedalInvestment/static/js/main.03250c95.js",
     "static/media/banner.mp4": "/MedalInvestment/static/media/banner.12d4af65cb3305c42764.mp4",
     "static/media/alternate.png": "/MedalInvestment/static/media/alternate.ec1db5a12b9cb6bb95c4.png",
     "static/media/Financial.png": "/MedalInvestment/static/media/Financial.752cf41c9789dca9d488.png",
@@ -22,10 +22,10 @@
     "static/media/whatsapplogo.webp": "/MedalInvestment/static/media/whatsapplogo.f1fe2ba21aa58876cf69.webp",
     "index.html": "/MedalInvestment/index.html",
     "main.6f37d1d9.css.map": "/MedalInvestment/static/css/main.6f37d1d9.css.map",
-    "main.413bf4f0.js.map": "/MedalInvestment/static/js/main.413bf4f0.js.map"
+    "main.03250c95.js.map": "/MedalInvestment/static/js/main.03250c95.js.map"
   },
   "entrypoints": [
     "static/css/main.6f37d1d9.css",
-    "static/js/main.413bf4f0.js"
+    "static/js/main.03250c95.js"
   ]
 }
