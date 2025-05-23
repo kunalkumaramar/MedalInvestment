@@ -1,31 +1,26 @@
 {
   "files": {
     "main.css": "/MedalInvestment/static/css/main.6f37d1d9.css",
-    "main.js": "/MedalInvestment/static/js/main.03250c95.js",
+    "main.js": "/MedalInvestment/static/js/main.032317e7.js",
     "static/media/banner.mp4": "/MedalInvestment/static/media/banner.12d4af65cb3305c42764.mp4",
     "static/media/alternate.png": "/MedalInvestment/static/media/alternate.ec1db5a12b9cb6bb95c4.png",
     "static/media/Financial.png": "/MedalInvestment/static/media/Financial.752cf41c9789dca9d488.png",
+    "static/media/alternate1.png": "/MedalInvestment/static/media/alternate1.19fdf04abdfd75e9c402.png",
+    "static/media/point1.png": "/MedalInvestment/static/media/point1.ea96ade872686e78934d.png",
     "static/media/founder.jpeg": "/MedalInvestment/static/media/founder.7b116d613305504b0227.jpeg",
     "static/media/point4.jpg": "/MedalInvestment/static/media/point4.eb2e91f6afbaa6ddde0f.jpg",
-    "static/media/hdfc.jpg": "/MedalInvestment/static/media/hdfc.1ebc2b5c94241c15a0d3.jpg",
-    "static/media/point1.png": "/MedalInvestment/static/media/point1.e2b567b154ae66d77a32.png",
-    "static/media/franklin.png": "/MedalInvestment/static/media/franklin.e4e0118103e9e28e70b9.png",
     "static/media/point3.jpg": "/MedalInvestment/static/media/point3.22d418ab6850244cce86.jpg",
-    "static/media/nippon.jpg": "/MedalInvestment/static/media/nippon.0a0307d13939f64c9c52.jpg",
     "static/media/point2.jpg": "/MedalInvestment/static/media/point2.2dee3ca09f955f3f02e1.jpg",
-    "static/media/sip.jpg": "/MedalInvestment/static/media/sip.b68ec7246d508043e0ae.jpg",
-    "static/media/sbi.png": "/MedalInvestment/static/media/sbi.1ccb6b08a619f6b5ea32.png",
     "static/media/logo.png": "/MedalInvestment/static/media/logo.18b9fc25d36d47266c2c.png",
-    "static/media/faq.jpg": "/MedalInvestment/static/media/faq.4fd1082d6205f1f5fb32.jpg",
     "static/media/mission.jpg": "/MedalInvestment/static/media/mission.9d9f10561df1273cdc1e.jpg",
-    "static/media/icici.png": "/MedalInvestment/static/media/icici.b196ce328d8ec2dc83b0.png",
+    "static/media/faq1.png": "/MedalInvestment/static/media/faq1.5e3bb3bb40250892c24b.png",
     "static/media/whatsapplogo.webp": "/MedalInvestment/static/media/whatsapplogo.f1fe2ba21aa58876cf69.webp",
     "index.html": "/MedalInvestment/index.html",
     "main.6f37d1d9.css.map": "/MedalInvestment/static/css/main.6f37d1d9.css.map",
-    "main.03250c95.js.map": "/MedalInvestment/static/js/main.03250c95.js.map"
+    "main.032317e7.js.map": "/MedalInvestment/static/js/main.032317e7.js.map"
   },
   "entrypoints": [
     "static/css/main.6f37d1d9.css",
-    "static/js/main.03250c95.js"
+    "static/js/main.032317e7.js"
   ]
 }
